@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "product 2update",
+      "price": "202"
+    },
+    {
+      "name": "san pham 8",
+      "id": 2,
+      "price": "400"
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "price": 300
+    },
+    {
+      "name": "san pham1update",
+      "id": 4,
+      "price": "230001"
+    },
+    {
+      "name": "sam sung",
+      "price": "23000",
+      "id": 5
+    }
+  ]
+}
